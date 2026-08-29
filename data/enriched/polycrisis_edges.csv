@@ -1,0 +1,718 @@
+id,source,target,type,weight,confidence,directed,evidence_note,source_basis
+E0001,PER_michael_lawrence,P_what_is_global_polycrisis_2022,authored,5,high,True,Author listed for representative key publication.,external_cascade_2022
+E0002,PER_scott_janzwood,P_what_is_global_polycrisis_2022,authored,5,high,True,Author listed for representative key publication.,external_cascade_2022
+E0003,PER_thomas_homer_dixon,P_what_is_global_polycrisis_2022,authored,5,high,True,Author listed for representative key publication.,external_cascade_2022
+E0004,PER_michael_lawrence,P_global_polycrisis_causal_mechanisms_2024,authored,5,high,True,Author listed for representative key publication.,external_cambridge_2024
+E0005,PER_thomas_homer_dixon,P_global_polycrisis_causal_mechanisms_2024,authored,5,high,True,Author listed for representative key publication.,external_cambridge_2024
+E0006,PER_scott_janzwood,P_global_polycrisis_causal_mechanisms_2024,authored,5,high,True,Author listed for representative key publication.,external_cambridge_2024
+E0007,PER_johan_rockstrom,P_global_polycrisis_causal_mechanisms_2024,authored,5,high,True,Author listed for representative key publication.,external_cambridge_2024
+E0008,PER_ortwin_renn,P_global_polycrisis_causal_mechanisms_2024,authored,5,high,True,Author listed for representative key publication.,external_cambridge_2024
+E0009,PER_jonathan_donges,P_global_polycrisis_causal_mechanisms_2024,authored,5,high,True,Author listed for representative key publication.,external_cambridge_2024
+E0010,PER_donella_meadows,P_limits_to_growth_1972,authored,5,high,True,Author listed for representative key publication.,external_club_of_rome_1972
+E0011,PER_dennis_meadows,P_limits_to_growth_1972,authored,5,high,True,Author listed for representative key publication.,external_club_of_rome_1972
+E0012,PER_jorgen_randers,P_limits_to_growth_1972,authored,5,high,True,Author listed for representative key publication.,external_club_of_rome_1972
+E0013,PER_william_behrens,P_limits_to_growth_1972,authored,5,high,True,Author listed for representative key publication.,external_club_of_rome_1972
+E0014,PER_johan_rockstrom,P_safe_operating_space_nature_2009,authored,5,high,True,Author listed for representative key publication.,external_nature_2009
+E0015,PER_will_steffen,P_safe_operating_space_nature_2009,authored,5,high,True,Author listed for representative key publication.,external_nature_2009
+E0016,PER_johan_rockstrom,P_planetary_boundaries_ecology_society_2009,authored,5,high,True,Author listed for representative key publication.,external_ecology_society_2009
+E0017,PER_will_steffen,P_planetary_boundaries_ecology_society_2009,authored,5,high,True,Author listed for representative key publication.,external_ecology_society_2009
+E0018,PER_will_steffen,P_planetary_boundaries_guiding_development_2015,authored,5,high,True,Author listed for representative key publication.,external_science_2015
+E0019,PER_johan_rockstrom,P_planetary_boundaries_guiding_development_2015,authored,5,high,True,Author listed for representative key publication.,external_science_2015
+E0020,PER_johan_rockstrom,P_safe_and_just_boundaries_2023,authored,5,high,True,Author listed for representative key publication.,external_nature_2023
+E0021,PER_joyeeta_gupta,P_safe_and_just_boundaries_2023,authored,5,high,True,Author listed for representative key publication.,external_nature_2023
+E0022,PER_katherine_richardson,P_safe_and_just_boundaries_2023,authored,5,high,True,Author listed for representative key publication.,external_nature_2023
+E0023,PER_carl_folke,P_resilience_perspective_ses_2006,authored,5,high,True,Author listed for representative key publication.,external_gEC_2006
+E0024,PER_elinor_ostrom,P_general_framework_ses_2009,authored,5,high,True,Author listed for representative key publication.,external_science_2009_ostrom
+E0025,PER_jochen_markard,P_sustainability_transitions_emerging_field_2012,authored,5,high,True,Author listed for representative key publication.,external_research_policy_2012
+E0026,PER_rob_raven,P_sustainability_transitions_emerging_field_2012,authored,5,high,True,Author listed for representative key publication.,external_research_policy_2012
+E0027,PER_bernhard_truffer,P_sustainability_transitions_emerging_field_2012,authored,5,high,True,Author listed for representative key publication.,external_research_policy_2012
+E0028,PER_kate_raworth,P_doughnut_economics_2017,authored,5,high,True,Author listed for representative key publication.,external_deal_2017
+E0029,PER_carl_folke,P_adaptive_governance_ses_2005,authored,5,high,True,Author listed for representative key publication.,external_adaptive_governance_2005
+E0030,PER_sandrine_dixson_declève,P_earth4all_survival_guide_2022,authored,5,high,True,Author listed for representative key publication.,external_earth4all_2022
+E0031,PER_jorgen_randers,P_earth4all_survival_guide_2022,authored,5,high,True,Author listed for representative key publication.,external_earth4all_2022
+E0032,PER_lance_gunderson,P_panarchy_2002,authored,5,high,True,Author listed for representative key publication.,external_panarchy_2002
+E0033,PER_cs_holling,P_panarchy_2002,authored,5,high,True,Author listed for representative key publication.,external_panarchy_2002
+E0034,PER_frank_biermann,P_earth_system_governance_science_plan_2009,authored,5,high,True,Author listed for representative key publication.,external_esg_2009
+E0035,RF_systems_thinking,C_systemic_interdependence,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0036,RF_systems_thinking,C_feedback_loops,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0037,RF_systems_thinking,C_nonlinearity,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0038,RF_systems_thinking,C_emergence,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0039,RF_systems_thinking,C_complex_adaptive_systems,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0040,RF_systems_thinking,C_polycrisis,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0041,RF_complexity_theory,C_complex_adaptive_systems,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0042,RF_complexity_theory,C_emergence,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0043,RF_complexity_theory,C_nonlinearity,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0044,RF_complexity_theory,C_feedback_loops,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0045,RF_complexity_theory,C_tipping_points,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0046,RF_complexity_theory,C_cascading_failures,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0047,RF_complexity_theory,C_crisis_entanglement,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0048,RF_earth_system_science,C_anthropocene,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0049,RF_earth_system_science,C_planetary_boundaries,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0050,RF_earth_system_science,C_tipping_points,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0051,RF_earth_system_science,C_safe_operating_space,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0052,RF_earth_system_science,C_climate_change,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0053,RF_earth_system_science,C_biodiversity_loss,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0054,RF_earth_system_science,C_planetary_limits,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0055,RF_earth_system_science,C_safe_just_earth_system_boundaries,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0056,RF_sustainability_science,C_transformation,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0057,RF_sustainability_science,C_planetary_boundaries,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0058,RF_sustainability_science,C_sustainability_transitions,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0059,RF_sustainability_science,C_social_ecological_systems,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0060,RF_sustainability_science,C_justice_and_inequality,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0061,RF_sustainability_science,C_polycrisis,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0062,RF_sustainability_science,C_food_energy_water_nexus,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0063,RF_resilience_research,C_resilience,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0064,RF_resilience_research,C_adaptation,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0065,RF_resilience_research,C_panarchy,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0066,RF_resilience_research,C_adaptive_cycles,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0067,RF_resilience_research,C_regime_shifts,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0068,RF_resilience_research,C_social_ecological_systems,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0069,RF_resilience_research,C_transformation,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0070,RF_social_ecological_systems,C_social_ecological_systems,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0071,RF_social_ecological_systems,C_resilience,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0072,RF_social_ecological_systems,C_adaptive_governance,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0073,RF_social_ecological_systems,C_planetary_stewardship,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0074,RF_social_ecological_systems,C_adaptation,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0075,RF_social_ecological_systems,C_regime_shifts,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0076,RF_transition_studies,C_sustainability_transitions,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0077,RF_transition_studies,C_socio_technical_transformation,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0078,RF_transition_studies,C_just_transition,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0079,RF_transition_studies,C_energy_transition,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0080,RF_transition_studies,C_transformation,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0081,RF_transition_studies,C_mineral_extraction,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0082,RF_governance_research,C_earth_system_governance,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0083,RF_governance_research,C_governance_under_uncertainty,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0084,RF_governance_research,C_adaptive_governance,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0085,RF_governance_research,C_just_transition,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0086,RF_governance_research,C_planetary_stewardship,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0087,RF_governance_research,C_polycrisis,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0088,RF_systemic_risk_analysis,C_systemic_risk,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0089,RF_systemic_risk_analysis,C_global_systemic_risk,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0090,RF_systemic_risk_analysis,C_cascading_risk,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0091,RF_systemic_risk_analysis,C_cascading_failures,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0092,RF_systemic_risk_analysis,C_supply_chain_vulnerability,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0093,RF_systemic_risk_analysis,C_financial_fragility,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0094,RF_systemic_risk_analysis,C_polycrisis,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0095,RF_systemic_risk_analysis,C_crisis_entanglement,uses_concept,5,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0096,RF_political_ecology,C_ecological_justice,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0097,RF_political_ecology,C_justice_and_inequality,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0098,RF_political_ecology,C_degrowth,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0099,RF_political_ecology,C_mineral_extraction,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0100,RF_political_ecology,C_resource_depletion,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0101,RF_political_ecology,C_just_transition,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0102,RF_degrowth_postgrowth,C_degrowth,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0103,RF_degrowth_postgrowth,C_post_growth,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0104,RF_degrowth_postgrowth,C_planetary_limits,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0105,RF_degrowth_postgrowth,C_ecological_justice,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0106,RF_degrowth_postgrowth,C_justice_and_inequality,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0107,RF_degrowth_postgrowth,C_resource_depletion,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0108,RF_existential_risk,C_long_term_futures,uses_concept,3,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0109,RF_existential_risk,C_global_systemic_risk,uses_concept,3,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0110,RF_existential_risk,C_tipping_points,uses_concept,3,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0111,RF_existential_risk,C_pandemics,uses_concept,3,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0112,RF_existential_risk,C_geopolitical_instability,uses_concept,3,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0113,RF_metacrisis,C_metacrisis,uses_concept,3,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0114,RF_metacrisis,C_polycrisis,uses_concept,3,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0115,RF_metacrisis,C_systemic_interdependence,uses_concept,3,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0116,RF_metacrisis,C_governance_under_uncertainty,uses_concept,3,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0117,RF_metacrisis,C_long_term_futures,uses_concept,3,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0118,RF_integrated_assessment,C_climate_change,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0119,RF_integrated_assessment,C_energy_transition,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0120,RF_integrated_assessment,C_planetary_limits,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0121,RF_integrated_assessment,C_transformation,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0122,RF_integrated_assessment,C_feedback_loops,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0123,RF_scenario_foresight,C_long_term_futures,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0124,RF_scenario_foresight,C_transformation,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0125,RF_scenario_foresight,C_polycrisis,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0126,RF_scenario_foresight,C_systemic_risk,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0127,RF_scenario_foresight,C_governance_under_uncertainty,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0128,RF_network_science,C_cascading_risk,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0129,RF_network_science,C_cascading_failures,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0130,RF_network_science,C_supply_chain_vulnerability,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0131,RF_network_science,C_systemic_interdependence,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0132,RF_network_science,C_systemic_risk,uses_concept,4,medium,True,Seed relation from research design and conceptual scope.,uploaded_research_design
+E0133,C_complex_adaptive_systems,RF_complexity_theory,part_of,5,high,True,Concept is treated as a defining/central concept for the field in the seed design.,uploaded_research_design
+E0134,C_planetary_boundaries,RF_earth_system_science,part_of,5,high,True,Concept is treated as a defining/central concept for the field in the seed design.,uploaded_research_design
+E0135,C_safe_just_earth_system_boundaries,RF_earth_system_science,part_of,5,high,True,Concept is treated as a defining/central concept for the field in the seed design.,uploaded_research_design
+E0136,C_resilience,RF_resilience_research,part_of,5,high,True,Concept is treated as a defining/central concept for the field in the seed design.,uploaded_research_design
+E0137,C_social_ecological_systems,RF_social_ecological_systems,part_of,5,high,True,Concept is treated as a defining/central concept for the field in the seed design.,uploaded_research_design
+E0138,C_sustainability_transitions,RF_transition_studies,part_of,5,high,True,Concept is treated as a defining/central concept for the field in the seed design.,uploaded_research_design
+E0139,C_earth_system_governance,RF_governance_research,part_of,5,high,True,Concept is treated as a defining/central concept for the field in the seed design.,uploaded_research_design
+E0140,C_systemic_risk,RF_systemic_risk_analysis,part_of,5,high,True,Concept is treated as a defining/central concept for the field in the seed design.,uploaded_research_design
+E0141,C_degrowth,RF_degrowth_postgrowth,part_of,5,high,True,Concept is treated as a defining/central concept for the field in the seed design.,uploaded_research_design
+E0142,C_metacrisis,RF_metacrisis,part_of,5,high,True,Concept is treated as a defining/central concept for the field in the seed design.,uploaded_research_design
+E0143,C_polycrisis,C_interconnected_crises,related_to,5,high,False,Conceptual relation in seed map.,uploaded_research_design
+E0144,C_polycrisis,C_systemic_interdependence,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0145,C_polycrisis,C_systemic_risk,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0146,C_polycrisis,C_global_systemic_risk,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0147,C_polycrisis,C_cascading_risk,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0148,C_polycrisis,C_feedback_loops,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0149,C_polycrisis,C_crisis_entanglement,related_to,5,high,False,Conceptual relation in seed map.,uploaded_research_design
+E0150,C_polycrisis,C_governance_under_uncertainty,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0151,C_polycrisis,C_emergence,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0152,C_crisis_entanglement,C_common_stresses,related_to,5,high,False,Causal mechanism relation in polycrisis framework.,uploaded_research_design
+E0153,C_crisis_entanglement,C_domino_effects,related_to,5,high,False,Causal mechanism relation in polycrisis framework.,uploaded_research_design
+E0154,C_crisis_entanglement,C_inter_systemic_feedbacks,related_to,5,high,False,Causal mechanism relation in polycrisis framework.,uploaded_research_design
+E0155,C_inter_systemic_feedbacks,C_feedback_loops,related_to,5,high,False,Conceptual relation in seed map.,uploaded_research_design
+E0156,C_domino_effects,C_cascading_risk,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0157,C_systemic_risk,C_global_systemic_risk,related_to,5,high,False,Conceptual relation in seed map.,uploaded_research_design
+E0158,C_systemic_risk,C_cascading_risk,related_to,5,high,False,Conceptual relation in seed map.,uploaded_research_design
+E0159,C_cascading_risk,C_cascading_failures,related_to,5,high,False,Conceptual relation in seed map.,uploaded_research_design
+E0160,C_systemic_risk,C_supply_chain_vulnerability,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0161,C_systemic_risk,C_financial_fragility,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0162,C_complex_adaptive_systems,C_emergence,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0163,C_complex_adaptive_systems,C_nonlinearity,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0164,C_complex_adaptive_systems,C_feedback_loops,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0165,C_complex_adaptive_systems,C_tipping_points,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0166,C_tipping_points,C_regime_shifts,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0167,C_tipping_points,C_climate_change,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0168,C_resilience,C_adaptation,related_to,5,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0169,C_resilience,C_transformation,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0170,C_resilience,C_panarchy,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0171,C_resilience,C_adaptive_cycles,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0172,C_resilience,C_regime_shifts,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0173,C_resilience,C_social_ecological_systems,related_to,5,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0174,C_resilience,C_adaptive_governance,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0175,C_panarchy,C_adaptive_cycles,related_to,5,high,False,Conceptual relation in seed map.,uploaded_research_design
+E0176,C_social_ecological_systems,C_planetary_stewardship,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0177,C_social_ecological_systems,C_adaptive_governance,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0178,C_planetary_boundaries,C_safe_operating_space,related_to,5,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0179,C_planetary_boundaries,C_planetary_limits,related_to,5,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0180,C_planetary_boundaries,C_safe_just_earth_system_boundaries,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0181,C_planetary_boundaries,C_anthropocene,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0182,C_planetary_boundaries,C_tipping_points,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0183,C_planetary_boundaries,C_ecological_ceilings,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0184,C_safe_just_earth_system_boundaries,C_ecological_justice,related_to,5,high,False,Conceptual relation in seed map.,uploaded_research_design
+E0185,C_safe_just_earth_system_boundaries,C_justice_and_inequality,related_to,5,high,False,Conceptual relation in seed map.,uploaded_research_design
+E0186,C_safe_just_earth_system_boundaries,C_safe_operating_space,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0187,C_earth_system_governance,C_planetary_stewardship,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0188,C_earth_system_governance,C_governance_under_uncertainty,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0189,C_earth_system_governance,C_adaptive_governance,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0190,C_earth_system_governance,C_justice_and_inequality,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0191,C_sustainability_transitions,C_socio_technical_transformation,related_to,5,high,False,Conceptual relation in seed map.,uploaded_research_design
+E0192,C_sustainability_transitions,C_just_transition,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0193,C_sustainability_transitions,C_energy_transition,related_to,5,high,False,Conceptual relation in seed map.,uploaded_research_design
+E0194,C_energy_transition,C_mineral_extraction,related_to,4,medium,False,Example relation from the uploaded topic description.,uploaded_research_design
+E0195,C_energy_transition,C_supply_chain_vulnerability,related_to,4,medium,False,Example relation from the uploaded topic description.,uploaded_research_design
+E0196,C_just_transition,C_justice_and_inequality,related_to,5,high,False,Conceptual relation in seed map.,uploaded_research_design
+E0197,C_ecological_justice,C_justice_and_inequality,related_to,5,high,False,Conceptual relation in seed map.,uploaded_research_design
+E0198,C_degrowth,C_post_growth,related_to,5,high,False,Conceptual relation in seed map.,uploaded_research_design
+E0199,C_degrowth,C_planetary_limits,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0200,C_post_growth,C_planetary_limits,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0201,C_metacrisis,C_polycrisis,related_to,3,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0202,C_metacrisis,C_long_term_futures,related_to,3,low,False,Conceptual relation in seed map.,uploaded_research_design
+E0203,C_food_energy_water_nexus,C_water_scarcity,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0204,C_food_energy_water_nexus,C_energy_transition,related_to,3,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0205,C_food_energy_water_nexus,C_climate_change,related_to,3,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0206,C_interconnected_crises,C_climate_change,related_to,3,medium,False,Crisis domain named in the uploaded research program as part of the polycrisis problem-space.,uploaded_research_design
+E0207,C_interconnected_crises,C_biodiversity_loss,related_to,3,medium,False,Crisis domain named in the uploaded research program as part of the polycrisis problem-space.,uploaded_research_design
+E0208,C_interconnected_crises,C_resource_depletion,related_to,3,medium,False,Crisis domain named in the uploaded research program as part of the polycrisis problem-space.,uploaded_research_design
+E0209,C_interconnected_crises,C_water_scarcity,related_to,3,medium,False,Crisis domain named in the uploaded research program as part of the polycrisis problem-space.,uploaded_research_design
+E0210,C_interconnected_crises,C_geopolitical_instability,related_to,3,medium,False,Crisis domain named in the uploaded research program as part of the polycrisis problem-space.,uploaded_research_design
+E0211,C_interconnected_crises,C_financial_fragility,related_to,3,medium,False,Crisis domain named in the uploaded research program as part of the polycrisis problem-space.,uploaded_research_design
+E0212,C_interconnected_crises,C_migration_pressures,related_to,3,medium,False,Crisis domain named in the uploaded research program as part of the polycrisis problem-space.,uploaded_research_design
+E0213,C_interconnected_crises,C_pandemics,related_to,3,medium,False,Crisis domain named in the uploaded research program as part of the polycrisis problem-space.,uploaded_research_design
+E0214,C_interconnected_crises,C_supply_chain_vulnerability,related_to,3,medium,False,Crisis domain named in the uploaded research program as part of the polycrisis problem-space.,uploaded_research_design
+E0215,C_social_foundations,C_ecological_ceilings,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0216,C_ecological_ceilings,C_planetary_boundaries,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0217,C_social_foundations,C_justice_and_inequality,related_to,4,medium,False,Conceptual relation in seed map.,uploaded_research_design
+E0218,RF_systems_thinking,M_system_dynamics,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0219,RF_systems_thinking,M_complex_systems_simulation,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0220,RF_systems_thinking,M_conceptual_synthesis,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0221,RF_complexity_theory,M_complex_systems_simulation,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0222,RF_complexity_theory,M_network_analysis,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0223,RF_complexity_theory,M_system_dynamics,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0224,RF_earth_system_science,M_earth_system_modelling,uses_method,5,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0225,RF_earth_system_science,M_integrated_assessment_modelling,uses_method,5,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0226,RF_earth_system_science,M_scenario_analysis,uses_method,5,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0227,RF_sustainability_science,M_transdisciplinary_research,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0228,RF_sustainability_science,M_scenario_analysis,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0229,RF_sustainability_science,M_conceptual_synthesis,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0230,RF_sustainability_science,M_comparative_case_study,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0231,RF_resilience_research,M_resilience_assessment,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0232,RF_resilience_research,M_comparative_case_study,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0233,RF_resilience_research,M_system_dynamics,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0234,RF_social_ecological_systems,M_resilience_assessment,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0235,RF_social_ecological_systems,M_adaptive_governance_analysis,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0236,RF_social_ecological_systems,M_comparative_case_study,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0237,RF_transition_studies,M_comparative_case_study,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0238,RF_transition_studies,M_scenario_analysis,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0239,RF_transition_studies,M_qualitative_governance_analysis,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0240,RF_governance_research,M_qualitative_governance_analysis,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0241,RF_governance_research,M_adaptive_governance_analysis,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0242,RF_governance_research,M_post_normal_science,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0243,RF_governance_research,M_process_tracing,uses_method,4,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0244,RF_systemic_risk_analysis,M_network_analysis,uses_method,5,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0245,RF_systemic_risk_analysis,M_cascading_risk_analysis,uses_method,5,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0246,RF_systemic_risk_analysis,M_complex_systems_simulation,uses_method,5,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0247,RF_systemic_risk_analysis,M_process_tracing,uses_method,5,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0248,RF_political_ecology,M_comparative_case_study,uses_method,3,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0249,RF_political_ecology,M_qualitative_governance_analysis,uses_method,3,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0250,RF_political_ecology,M_transdisciplinary_research,uses_method,3,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0251,RF_degrowth_postgrowth,M_conceptual_synthesis,uses_method,3,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0252,RF_degrowth_postgrowth,M_comparative_case_study,uses_method,3,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0253,RF_degrowth_postgrowth,M_scenario_analysis,uses_method,3,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0254,RF_existential_risk,M_scenario_analysis,uses_method,3,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0255,RF_existential_risk,M_foresight,uses_method,3,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0256,RF_existential_risk,M_complex_systems_simulation,uses_method,3,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0257,RF_metacrisis,M_conceptual_synthesis,uses_method,3,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0258,RF_metacrisis,M_post_normal_science,uses_method,3,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0259,RF_metacrisis,M_foresight,uses_method,3,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0260,RF_integrated_assessment,M_integrated_assessment_modelling,uses_method,5,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0261,RF_integrated_assessment,M_system_dynamics,uses_method,5,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0262,RF_integrated_assessment,M_scenario_analysis,uses_method,5,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0263,RF_scenario_foresight,M_scenario_analysis,uses_method,5,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0264,RF_scenario_foresight,M_foresight,uses_method,5,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0265,RF_scenario_foresight,M_conceptual_synthesis,uses_method,5,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0266,RF_network_science,M_network_analysis,uses_method,5,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0267,RF_network_science,M_cascading_risk_analysis,uses_method,5,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0268,RF_network_science,M_complex_systems_simulation,uses_method,5,medium,True,Method associated with field in the seed research design.,uploaded_research_design
+E0269,C_polycrisis,M_network_analysis,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0270,C_polycrisis,M_cascading_risk_analysis,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0271,C_polycrisis,M_system_dynamics,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0272,C_polycrisis,M_scenario_analysis,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0273,C_polycrisis,M_conceptual_synthesis,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0274,C_systemic_risk,M_network_analysis,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0275,C_systemic_risk,M_cascading_risk_analysis,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0276,C_systemic_risk,M_complex_systems_simulation,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0277,C_feedback_loops,M_system_dynamics,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0278,C_feedback_loops,M_complex_systems_simulation,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0279,C_planetary_boundaries,M_earth_system_modelling,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0280,C_planetary_boundaries,M_integrated_assessment_modelling,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0281,C_safe_just_earth_system_boundaries,M_earth_system_modelling,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0282,C_safe_just_earth_system_boundaries,M_integrated_assessment_modelling,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0283,C_safe_just_earth_system_boundaries,M_conceptual_synthesis,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0284,C_sustainability_transitions,M_comparative_case_study,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0285,C_sustainability_transitions,M_scenario_analysis,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0286,C_sustainability_transitions,M_qualitative_governance_analysis,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0287,C_resilience,M_resilience_assessment,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0288,C_resilience,M_comparative_case_study,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0289,C_resilience,M_system_dynamics,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0290,C_earth_system_governance,M_qualitative_governance_analysis,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0291,C_earth_system_governance,M_adaptive_governance_analysis,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0292,C_earth_system_governance,M_post_normal_science,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0293,C_metacrisis,M_conceptual_synthesis,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0294,C_metacrisis,M_foresight,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0295,C_crisis_entanglement,M_process_tracing,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0296,C_crisis_entanglement,M_network_analysis,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0297,C_crisis_entanglement,M_cascading_risk_analysis,studied_with,4,medium,True,Exploratory concept-method linkage for first-stage mapping.,uploaded_research_design
+E0298,M_system_dynamics,D_integrated_assessment_models,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0299,M_system_dynamics,D_scenario_databases,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0300,M_integrated_assessment_modelling,D_integrated_assessment_models,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0301,M_integrated_assessment_modelling,D_climate_models,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0302,M_integrated_assessment_modelling,D_energy_transition_datasets,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0303,M_integrated_assessment_modelling,D_global_development_indicators,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0304,M_integrated_assessment_modelling,D_scenario_databases,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0305,M_network_analysis,D_supply_chain_datasets,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0306,M_network_analysis,D_risk_datasets,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0307,M_network_analysis,D_research_databases,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0308,M_cascading_risk_analysis,D_risk_datasets,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0309,M_cascading_risk_analysis,D_supply_chain_datasets,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0310,M_scenario_analysis,D_scenario_databases,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0311,M_scenario_analysis,D_global_development_indicators,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0312,M_foresight,D_scenario_databases,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0313,M_foresight,D_knowledge_platforms,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0314,M_resilience_assessment,D_biodiversity_data,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0315,M_resilience_assessment,D_risk_datasets,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0316,M_resilience_assessment,D_global_development_indicators,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0317,M_earth_system_modelling,D_earth_system_models,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0318,M_earth_system_modelling,D_climate_models,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0319,M_earth_system_modelling,D_biodiversity_data,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0320,M_transdisciplinary_research,D_knowledge_platforms,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0321,M_qualitative_governance_analysis,D_research_databases,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0322,M_qualitative_governance_analysis,D_knowledge_platforms,uses_data,4,medium,True,Typical data/method dependency for seed graph.,uploaded_research_design
+E0323,I_stockholm_resilience_centre,RF_resilience_research,active_in,5,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0324,I_stockholm_resilience_centre,RF_social_ecological_systems,active_in,5,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0325,I_stockholm_resilience_centre,RF_sustainability_science,active_in,5,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0326,I_stockholm_resilience_centre,RF_earth_system_science,active_in,5,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0327,I_stockholm_resilience_centre,C_resilience,works_on,5,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0328,I_stockholm_resilience_centre,C_social_ecological_systems,works_on,5,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0329,I_stockholm_resilience_centre,C_planetary_boundaries,works_on,5,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0330,I_stockholm_resilience_centre,C_transformation,works_on,5,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0331,I_pik,RF_earth_system_science,active_in,5,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0332,I_pik,RF_integrated_assessment,active_in,5,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0333,I_pik,RF_systemic_risk_analysis,active_in,5,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0334,I_pik,C_climate_change,works_on,5,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0335,I_pik,C_planetary_boundaries,works_on,5,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0336,I_pik,C_tipping_points,works_on,5,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0337,I_pik,C_safe_just_earth_system_boundaries,works_on,5,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0338,I_iiasa,RF_systems_thinking,active_in,4,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0339,I_iiasa,RF_integrated_assessment,active_in,4,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0340,I_iiasa,RF_scenario_foresight,active_in,4,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0341,I_iiasa,C_systemic_interdependence,works_on,4,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0342,I_iiasa,C_energy_transition,works_on,4,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0343,I_iiasa,C_long_term_futures,works_on,4,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0344,I_club_of_rome,RF_systems_thinking,active_in,4,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0345,I_club_of_rome,RF_degrowth_postgrowth,active_in,4,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0346,I_club_of_rome,RF_sustainability_science,active_in,4,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0347,I_club_of_rome,C_planetary_limits,works_on,5,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0348,I_club_of_rome,C_transformation,works_on,5,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0349,I_club_of_rome,C_resource_depletion,works_on,5,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0350,I_un_sdg_institutions,RF_governance_research,active_in,4,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0351,I_un_sdg_institutions,RF_sustainability_science,active_in,4,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0352,I_un_sdg_institutions,C_transformation,works_on,3,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0353,I_un_sdg_institutions,C_justice_and_inequality,works_on,3,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0354,I_un_sdg_institutions,C_climate_change,works_on,3,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0355,I_cascade_institute,RF_systemic_risk_analysis,active_in,5,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0356,I_cascade_institute,RF_complexity_theory,active_in,5,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0357,I_cascade_institute,RF_scenario_foresight,active_in,5,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0358,I_cascade_institute,C_polycrisis,works_on,5,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0359,I_cascade_institute,C_systemic_risk,works_on,5,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0360,I_cascade_institute,C_crisis_entanglement,works_on,5,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0361,I_cascade_institute,C_cascading_risk,works_on,5,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0362,I_deal,RF_degrowth_postgrowth,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0363,I_deal,RF_sustainability_science,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0364,I_deal,RF_governance_research,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0365,I_deal,C_social_foundations,works_on,4,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0366,I_deal,C_ecological_ceilings,works_on,4,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0367,I_deal,C_planetary_boundaries,works_on,4,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0368,I_deal,C_justice_and_inequality,works_on,4,medium,True,Institution/organization listed or inferred as working on this concept for seed mapping.,uploaded_research_design
+E0369,I_lancet_planetary_health,RF_sustainability_science,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0370,I_lancet_planetary_health,RF_earth_system_science,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0371,I_global_environmental_change_journal,RF_sustainability_science,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0372,I_global_environmental_change_journal,RF_governance_research,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0373,I_global_environmental_change_journal,RF_earth_system_science,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0374,I_sustainability_science_journal,RF_sustainability_science,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0375,I_ecology_and_society,RF_resilience_research,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0376,I_ecology_and_society,RF_social_ecological_systems,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0377,I_environmental_research_letters,RF_earth_system_science,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0378,I_environmental_research_letters,RF_integrated_assessment,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0379,I_earth_system_governance_journal,RF_governance_research,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0380,I_futures_journal,RF_scenario_foresight,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0381,I_futures_journal,RF_metacrisis,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0382,I_journal_industrial_ecology,RF_transition_studies,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0383,I_nature_sustainability,RF_sustainability_science,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0384,I_nature_sustainability,RF_transition_studies,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0385,I_nature_sustainability,RF_earth_system_science,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0386,I_climatic_change,RF_earth_system_science,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0387,I_climatic_change,RF_integrated_assessment,active_in,3,medium,True,Institution/organization listed or inferred as active in this research area for seed mapping.,uploaded_research_design
+E0388,I_club_of_rome,N_earth4all,hosts,4,medium,True,Seed graph relation: Club of Rome is institutionally connected to Earth4All.,uploaded_research_design
+E0389,I_stockholm_resilience_centre,N_earth4all,participates_in,3,medium,True,Seed graph relation from topic list; validate exact role during empirical expansion.,uploaded_research_design
+E0390,I_pik,N_earth4all,participates_in,3,medium,True,Seed graph relation from topic list; validate exact role during empirical expansion.,uploaded_research_design
+E0391,I_pik,N_earth_commission,participates_in,3,medium,True,PIK appears as an institutional bridge in Earth system boundary work; validate with project data.,uploaded_research_design
+E0392,I_stockholm_resilience_centre,N_earth_commission,participates_in,3,medium,True,SRC appears as an institutional bridge in planetary boundary work; validate with project data.,uploaded_research_design
+E0393,I_cascade_institute,N_polycrisis_research_agenda,hosts,4,medium,True,Cascade Institute is a relevant institutional anchor for explicit polycrisis work.,uploaded_research_design
+E0394,N_earth4all,C_transformation,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0395,N_earth4all,C_planetary_limits,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0396,N_earth4all,C_justice_and_inequality,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0397,N_earth4all,C_sustainability_transitions,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0398,N_future_earth,C_sustainability_transitions,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0399,N_future_earth,C_transformation,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0400,N_future_earth,C_anthropocene,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0401,N_future_earth,C_social_ecological_systems,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0402,N_earth_commission,C_safe_just_earth_system_boundaries,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0403,N_earth_commission,C_planetary_boundaries,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0404,N_earth_commission,C_ecological_justice,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0405,N_earth_commission,C_justice_and_inequality,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0406,N_earth_system_governance_project,C_earth_system_governance,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0407,N_earth_system_governance_project,C_governance_under_uncertainty,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0408,N_earth_system_governance_project,C_planetary_stewardship,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0409,N_strn,C_sustainability_transitions,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0410,N_strn,C_socio_technical_transformation,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0411,N_strn,C_just_transition,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0412,N_strn,C_energy_transition,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0413,N_polycrisis_research_agenda,C_polycrisis,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0414,N_polycrisis_research_agenda,C_crisis_entanglement,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0415,N_polycrisis_research_agenda,C_systemic_risk,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0416,N_polycrisis_research_agenda,C_cascading_risk,promotes,4,medium,True,Initiative-concept relation for exploratory seed graph.,uploaded_research_design
+E0417,N_earth4all,RF_systems_thinking,active_in,4,medium,True,Initiative-field relation for exploratory seed graph.,uploaded_research_design
+E0418,N_earth4all,RF_integrated_assessment,active_in,4,medium,True,Initiative-field relation for exploratory seed graph.,uploaded_research_design
+E0419,N_earth4all,RF_sustainability_science,active_in,4,medium,True,Initiative-field relation for exploratory seed graph.,uploaded_research_design
+E0420,N_future_earth,RF_sustainability_science,active_in,4,medium,True,Initiative-field relation for exploratory seed graph.,uploaded_research_design
+E0421,N_future_earth,RF_earth_system_science,active_in,4,medium,True,Initiative-field relation for exploratory seed graph.,uploaded_research_design
+E0422,N_future_earth,RF_governance_research,active_in,4,medium,True,Initiative-field relation for exploratory seed graph.,uploaded_research_design
+E0423,N_earth_commission,RF_earth_system_science,active_in,4,medium,True,Initiative-field relation for exploratory seed graph.,uploaded_research_design
+E0424,N_earth_commission,RF_sustainability_science,active_in,4,medium,True,Initiative-field relation for exploratory seed graph.,uploaded_research_design
+E0425,N_earth_commission,RF_governance_research,active_in,4,medium,True,Initiative-field relation for exploratory seed graph.,uploaded_research_design
+E0426,N_earth_system_governance_project,RF_governance_research,active_in,4,medium,True,Initiative-field relation for exploratory seed graph.,uploaded_research_design
+E0427,N_earth_system_governance_project,RF_sustainability_science,active_in,4,medium,True,Initiative-field relation for exploratory seed graph.,uploaded_research_design
+E0428,N_strn,RF_transition_studies,active_in,4,medium,True,Initiative-field relation for exploratory seed graph.,uploaded_research_design
+E0429,N_strn,RF_sustainability_science,active_in,4,medium,True,Initiative-field relation for exploratory seed graph.,uploaded_research_design
+E0430,N_polycrisis_research_agenda,RF_systemic_risk_analysis,active_in,4,medium,True,Initiative-field relation for exploratory seed graph.,uploaded_research_design
+E0431,N_polycrisis_research_agenda,RF_complexity_theory,active_in,4,medium,True,Initiative-field relation for exploratory seed graph.,uploaded_research_design
+E0432,N_polycrisis_research_agenda,RF_governance_research,active_in,4,medium,True,Initiative-field relation for exploratory seed graph.,uploaded_research_design
+E0433,C_planetary_boundaries,G_safe_and_just_boundaries,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0434,C_planetary_boundaries,G_planetary_stewardship,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0435,C_planetary_boundaries,G_planetary_governance,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0436,C_planetary_boundaries,G_doughnut_economics,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0437,C_safe_just_earth_system_boundaries,G_safe_and_just_boundaries,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0438,C_safe_just_earth_system_boundaries,G_planetary_governance,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0439,C_safe_just_earth_system_boundaries,G_sdgs,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0440,C_earth_system_governance,G_earth_system_governance,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0441,C_earth_system_governance,G_planetary_governance,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0442,C_planetary_stewardship,G_planetary_stewardship,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0443,C_just_transition,G_just_transition,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0444,C_sustainability_transitions,G_just_transition,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0445,C_sustainability_transitions,G_circular_economy,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0446,C_sustainability_transitions,G_sdgs,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0447,C_resilience,G_resilience_governance,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0448,C_resilience,G_adaptive_governance,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0449,C_adaptive_governance,G_adaptive_governance,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0450,C_social_foundations,G_doughnut_economics,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0451,C_social_foundations,G_sdgs,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0452,C_ecological_ceilings,G_doughnut_economics,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0453,C_degrowth,G_doughnut_economics,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0454,C_polycrisis,G_planetary_governance,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0455,C_polycrisis,G_adaptive_governance,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0456,C_polycrisis,G_resilience_governance,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0457,C_systemic_risk,G_resilience_governance,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0458,C_systemic_risk,G_planetary_governance,linked_to,4,medium,True,"Concept-framework relation. Treat as an analytical link, not a claim of direct influence.",uploaded_research_design
+E0459,RF_earth_system_science,G_planetary_governance,contributes_to,3,medium,True,Research-field contribution to governance framework in seed mapping.,uploaded_research_design
+E0460,RF_earth_system_science,G_safe_and_just_boundaries,contributes_to,3,medium,True,Research-field contribution to governance framework in seed mapping.,uploaded_research_design
+E0461,RF_sustainability_science,G_sdgs,contributes_to,3,medium,True,Research-field contribution to governance framework in seed mapping.,uploaded_research_design
+E0462,RF_sustainability_science,G_doughnut_economics,contributes_to,3,medium,True,Research-field contribution to governance framework in seed mapping.,uploaded_research_design
+E0463,RF_sustainability_science,G_safe_and_just_boundaries,contributes_to,3,medium,True,Research-field contribution to governance framework in seed mapping.,uploaded_research_design
+E0464,RF_governance_research,G_earth_system_governance,contributes_to,3,medium,True,Research-field contribution to governance framework in seed mapping.,uploaded_research_design
+E0465,RF_governance_research,G_planetary_governance,contributes_to,3,medium,True,Research-field contribution to governance framework in seed mapping.,uploaded_research_design
+E0466,RF_governance_research,G_adaptive_governance,contributes_to,3,medium,True,Research-field contribution to governance framework in seed mapping.,uploaded_research_design
+E0467,RF_transition_studies,G_just_transition,contributes_to,3,medium,True,Research-field contribution to governance framework in seed mapping.,uploaded_research_design
+E0468,RF_transition_studies,G_circular_economy,contributes_to,3,medium,True,Research-field contribution to governance framework in seed mapping.,uploaded_research_design
+E0469,RF_resilience_research,G_resilience_governance,contributes_to,3,medium,True,Research-field contribution to governance framework in seed mapping.,uploaded_research_design
+E0470,RF_resilience_research,G_adaptive_governance,contributes_to,3,medium,True,Research-field contribution to governance framework in seed mapping.,uploaded_research_design
+E0471,RF_political_ecology,G_just_transition,contributes_to,3,medium,True,Research-field contribution to governance framework in seed mapping.,uploaded_research_design
+E0472,RF_political_ecology,G_safe_and_just_boundaries,contributes_to,3,medium,True,Research-field contribution to governance framework in seed mapping.,uploaded_research_design
+E0473,RF_systemic_risk_analysis,G_resilience_governance,contributes_to,3,medium,True,Research-field contribution to governance framework in seed mapping.,uploaded_research_design
+E0474,RF_systemic_risk_analysis,G_planetary_governance,contributes_to,3,medium,True,Research-field contribution to governance framework in seed mapping.,uploaded_research_design
+E0475,I_un_sdg_institutions,G_sdgs,develops,4,medium,True,Institution/initiative-framework relation in seed graph.,uploaded_research_design
+E0476,I_deal,G_doughnut_economics,develops,4,medium,True,Institution/initiative-framework relation in seed graph.,uploaded_research_design
+E0477,N_earth_system_governance_project,G_earth_system_governance,promotes,4,medium,True,Institution/initiative-framework relation in seed graph.,uploaded_research_design
+E0478,N_earth_commission,G_safe_and_just_boundaries,promotes,4,medium,True,Institution/initiative-framework relation in seed graph.,uploaded_research_design
+E0479,N_strn,G_just_transition,promotes,4,medium,True,Institution/initiative-framework relation in seed graph.,uploaded_research_design
+E0480,N_earth4all,G_planetary_stewardship,promotes,4,medium,True,Institution/initiative-framework relation in seed graph.,uploaded_research_design
+E0481,P_what_is_global_polycrisis_2022,C_polycrisis,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_cascade_2022
+E0482,P_what_is_global_polycrisis_2022,C_systemic_risk,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_cascade_2022
+E0483,P_what_is_global_polycrisis_2022,C_crisis_entanglement,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_cascade_2022
+E0484,P_what_is_global_polycrisis_2022,C_interconnected_crises,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_cascade_2022
+E0485,P_what_is_global_polycrisis_2022,RF_systemic_risk_analysis,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_cascade_2022
+E0486,P_what_is_global_polycrisis_2022,RF_complexity_theory,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_cascade_2022
+E0487,P_what_is_global_polycrisis_2022,M_conceptual_synthesis,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_cascade_2022
+E0488,P_what_is_global_polycrisis_2022,I_cascade_institute,produced_by,4,medium,True,Publication has institutional origin or strong institutional linkage.,external_cascade_2022
+E0489,P_global_polycrisis_causal_mechanisms_2024,C_polycrisis,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_cambridge_2024
+E0490,P_global_polycrisis_causal_mechanisms_2024,C_crisis_entanglement,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_cambridge_2024
+E0491,P_global_polycrisis_causal_mechanisms_2024,C_common_stresses,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_cambridge_2024
+E0492,P_global_polycrisis_causal_mechanisms_2024,C_domino_effects,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_cambridge_2024
+E0493,P_global_polycrisis_causal_mechanisms_2024,C_inter_systemic_feedbacks,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_cambridge_2024
+E0494,P_global_polycrisis_causal_mechanisms_2024,C_systemic_risk,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_cambridge_2024
+E0495,P_global_polycrisis_causal_mechanisms_2024,C_feedback_loops,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_cambridge_2024
+E0496,P_global_polycrisis_causal_mechanisms_2024,C_emergence,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_cambridge_2024
+E0497,P_global_polycrisis_causal_mechanisms_2024,RF_systemic_risk_analysis,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_cambridge_2024
+E0498,P_global_polycrisis_causal_mechanisms_2024,RF_complexity_theory,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_cambridge_2024
+E0499,P_global_polycrisis_causal_mechanisms_2024,RF_governance_research,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_cambridge_2024
+E0500,P_global_polycrisis_causal_mechanisms_2024,M_conceptual_synthesis,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_cambridge_2024
+E0501,P_global_polycrisis_causal_mechanisms_2024,M_process_tracing,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_cambridge_2024
+E0502,P_global_polycrisis_causal_mechanisms_2024,M_network_analysis,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_cambridge_2024
+E0503,P_global_polycrisis_causal_mechanisms_2024,I_cascade_institute,produced_by,4,medium,True,Publication has institutional origin or strong institutional linkage.,external_cambridge_2024
+E0504,P_global_polycrisis_causal_mechanisms_2024,I_pik,produced_by,4,medium,True,Publication has institutional origin or strong institutional linkage.,external_cambridge_2024
+E0505,P_global_polycrisis_causal_mechanisms_2024,I_stockholm_resilience_centre,produced_by,4,medium,True,Publication has institutional origin or strong institutional linkage.,external_cambridge_2024
+E0506,P_global_polycrisis_causal_mechanisms_2024,G_planetary_governance,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_cambridge_2024
+E0507,P_global_polycrisis_causal_mechanisms_2024,G_resilience_governance,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_cambridge_2024
+E0508,P_limits_to_growth_1972,C_planetary_limits,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_club_of_rome_1972
+E0509,P_limits_to_growth_1972,C_resource_depletion,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_club_of_rome_1972
+E0510,P_limits_to_growth_1972,C_feedback_loops,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_club_of_rome_1972
+E0511,P_limits_to_growth_1972,C_systemic_interdependence,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_club_of_rome_1972
+E0512,P_limits_to_growth_1972,C_transformation,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_club_of_rome_1972
+E0513,P_limits_to_growth_1972,RF_systems_thinking,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_club_of_rome_1972
+E0514,P_limits_to_growth_1972,RF_integrated_assessment,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_club_of_rome_1972
+E0515,P_limits_to_growth_1972,RF_sustainability_science,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_club_of_rome_1972
+E0516,P_limits_to_growth_1972,M_system_dynamics,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_club_of_rome_1972
+E0517,P_limits_to_growth_1972,M_scenario_analysis,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_club_of_rome_1972
+E0518,P_limits_to_growth_1972,I_club_of_rome,produced_by,4,medium,True,Publication has institutional origin or strong institutional linkage.,external_club_of_rome_1972
+E0519,P_limits_to_growth_1972,G_planetary_stewardship,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_club_of_rome_1972
+E0520,P_safe_operating_space_nature_2009,C_planetary_boundaries,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_nature_2009
+E0521,P_safe_operating_space_nature_2009,C_safe_operating_space,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_nature_2009
+E0522,P_safe_operating_space_nature_2009,C_planetary_limits,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_nature_2009
+E0523,P_safe_operating_space_nature_2009,C_tipping_points,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_nature_2009
+E0524,P_safe_operating_space_nature_2009,C_anthropocene,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_nature_2009
+E0525,P_safe_operating_space_nature_2009,RF_earth_system_science,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_nature_2009
+E0526,P_safe_operating_space_nature_2009,RF_sustainability_science,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_nature_2009
+E0527,P_safe_operating_space_nature_2009,M_earth_system_modelling,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_nature_2009
+E0528,P_safe_operating_space_nature_2009,M_conceptual_synthesis,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_nature_2009
+E0529,P_safe_operating_space_nature_2009,I_stockholm_resilience_centre,produced_by,4,medium,True,Publication has institutional origin or strong institutional linkage.,external_nature_2009
+E0530,P_safe_operating_space_nature_2009,G_planetary_stewardship,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_nature_2009
+E0531,P_safe_operating_space_nature_2009,G_safe_and_just_boundaries,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_nature_2009
+E0532,P_planetary_boundaries_ecology_society_2009,C_planetary_boundaries,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_ecology_society_2009
+E0533,P_planetary_boundaries_ecology_society_2009,C_safe_operating_space,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_ecology_society_2009
+E0534,P_planetary_boundaries_ecology_society_2009,C_planetary_limits,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_ecology_society_2009
+E0535,P_planetary_boundaries_ecology_society_2009,C_tipping_points,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_ecology_society_2009
+E0536,P_planetary_boundaries_ecology_society_2009,RF_earth_system_science,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_ecology_society_2009
+E0537,P_planetary_boundaries_ecology_society_2009,RF_sustainability_science,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_ecology_society_2009
+E0538,P_planetary_boundaries_ecology_society_2009,M_earth_system_modelling,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_ecology_society_2009
+E0539,P_planetary_boundaries_ecology_society_2009,M_conceptual_synthesis,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_ecology_society_2009
+E0540,P_planetary_boundaries_ecology_society_2009,I_stockholm_resilience_centre,produced_by,4,medium,True,Publication has institutional origin or strong institutional linkage.,external_ecology_society_2009
+E0541,P_planetary_boundaries_ecology_society_2009,G_planetary_stewardship,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_ecology_society_2009
+E0542,P_planetary_boundaries_guiding_development_2015,C_planetary_boundaries,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_science_2015
+E0543,P_planetary_boundaries_guiding_development_2015,C_safe_operating_space,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_science_2015
+E0544,P_planetary_boundaries_guiding_development_2015,C_planetary_limits,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_science_2015
+E0545,P_planetary_boundaries_guiding_development_2015,C_anthropocene,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_science_2015
+E0546,P_planetary_boundaries_guiding_development_2015,RF_earth_system_science,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_science_2015
+E0547,P_planetary_boundaries_guiding_development_2015,RF_sustainability_science,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_science_2015
+E0548,P_planetary_boundaries_guiding_development_2015,M_earth_system_modelling,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_science_2015
+E0549,P_planetary_boundaries_guiding_development_2015,I_stockholm_resilience_centre,produced_by,4,medium,True,Publication has institutional origin or strong institutional linkage.,external_science_2015
+E0550,P_planetary_boundaries_guiding_development_2015,G_planetary_stewardship,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_science_2015
+E0551,P_safe_and_just_boundaries_2023,C_safe_just_earth_system_boundaries,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_nature_2023
+E0552,P_safe_and_just_boundaries_2023,C_planetary_boundaries,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_nature_2023
+E0553,P_safe_and_just_boundaries_2023,C_ecological_justice,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_nature_2023
+E0554,P_safe_and_just_boundaries_2023,C_justice_and_inequality,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_nature_2023
+E0555,P_safe_and_just_boundaries_2023,C_safe_operating_space,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_nature_2023
+E0556,P_safe_and_just_boundaries_2023,RF_earth_system_science,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_nature_2023
+E0557,P_safe_and_just_boundaries_2023,RF_sustainability_science,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_nature_2023
+E0558,P_safe_and_just_boundaries_2023,RF_governance_research,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_nature_2023
+E0559,P_safe_and_just_boundaries_2023,M_earth_system_modelling,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_nature_2023
+E0560,P_safe_and_just_boundaries_2023,M_integrated_assessment_modelling,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_nature_2023
+E0561,P_safe_and_just_boundaries_2023,M_conceptual_synthesis,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_nature_2023
+E0562,P_safe_and_just_boundaries_2023,I_pik,produced_by,4,medium,True,Publication has institutional origin or strong institutional linkage.,external_nature_2023
+E0563,P_safe_and_just_boundaries_2023,I_stockholm_resilience_centre,produced_by,4,medium,True,Publication has institutional origin or strong institutional linkage.,external_nature_2023
+E0564,P_safe_and_just_boundaries_2023,G_safe_and_just_boundaries,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_nature_2023
+E0565,P_safe_and_just_boundaries_2023,G_sdgs,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_nature_2023
+E0566,P_resilience_perspective_ses_2006,C_resilience,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_gEC_2006
+E0567,P_resilience_perspective_ses_2006,C_social_ecological_systems,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_gEC_2006
+E0568,P_resilience_perspective_ses_2006,C_regime_shifts,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_gEC_2006
+E0569,P_resilience_perspective_ses_2006,C_adaptation,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_gEC_2006
+E0570,P_resilience_perspective_ses_2006,RF_resilience_research,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_gEC_2006
+E0571,P_resilience_perspective_ses_2006,RF_social_ecological_systems,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_gEC_2006
+E0572,P_resilience_perspective_ses_2006,M_conceptual_synthesis,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_gEC_2006
+E0573,P_resilience_perspective_ses_2006,M_resilience_assessment,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_gEC_2006
+E0574,P_resilience_perspective_ses_2006,I_stockholm_resilience_centre,produced_by,4,medium,True,Publication has institutional origin or strong institutional linkage.,external_gEC_2006
+E0575,P_general_framework_ses_2009,C_social_ecological_systems,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_science_2009_ostrom
+E0576,P_general_framework_ses_2009,C_adaptive_governance,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_science_2009_ostrom
+E0577,P_general_framework_ses_2009,C_resilience,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_science_2009_ostrom
+E0578,P_general_framework_ses_2009,C_justice_and_inequality,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_science_2009_ostrom
+E0579,P_general_framework_ses_2009,RF_social_ecological_systems,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_science_2009_ostrom
+E0580,P_general_framework_ses_2009,RF_governance_research,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_science_2009_ostrom
+E0581,P_general_framework_ses_2009,M_comparative_case_study,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_science_2009_ostrom
+E0582,P_general_framework_ses_2009,M_conceptual_synthesis,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_science_2009_ostrom
+E0583,P_general_framework_ses_2009,G_adaptive_governance,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_science_2009_ostrom
+E0584,P_sustainability_transitions_emerging_field_2012,C_sustainability_transitions,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_research_policy_2012
+E0585,P_sustainability_transitions_emerging_field_2012,C_socio_technical_transformation,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_research_policy_2012
+E0586,P_sustainability_transitions_emerging_field_2012,C_energy_transition,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_research_policy_2012
+E0587,P_sustainability_transitions_emerging_field_2012,C_transformation,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_research_policy_2012
+E0588,P_sustainability_transitions_emerging_field_2012,RF_transition_studies,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_research_policy_2012
+E0589,P_sustainability_transitions_emerging_field_2012,RF_sustainability_science,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_research_policy_2012
+E0590,P_sustainability_transitions_emerging_field_2012,M_conceptual_synthesis,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_research_policy_2012
+E0591,P_sustainability_transitions_emerging_field_2012,M_comparative_case_study,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_research_policy_2012
+E0592,P_sustainability_transitions_emerging_field_2012,G_just_transition,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_research_policy_2012
+E0593,P_sustainability_transitions_emerging_field_2012,G_circular_economy,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_research_policy_2012
+E0594,P_doughnut_economics_2017,C_social_foundations,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_deal_2017
+E0595,P_doughnut_economics_2017,C_ecological_ceilings,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_deal_2017
+E0596,P_doughnut_economics_2017,C_planetary_boundaries,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_deal_2017
+E0597,P_doughnut_economics_2017,C_justice_and_inequality,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_deal_2017
+E0598,P_doughnut_economics_2017,RF_sustainability_science,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_deal_2017
+E0599,P_doughnut_economics_2017,RF_degrowth_postgrowth,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_deal_2017
+E0600,P_doughnut_economics_2017,M_conceptual_synthesis,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_deal_2017
+E0601,P_doughnut_economics_2017,I_deal,produced_by,4,medium,True,Publication has institutional origin or strong institutional linkage.,external_deal_2017
+E0602,P_doughnut_economics_2017,G_doughnut_economics,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_deal_2017
+E0603,P_doughnut_economics_2017,G_sdgs,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_deal_2017
+E0604,P_adaptive_governance_ses_2005,C_adaptive_governance,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_adaptive_governance_2005
+E0605,P_adaptive_governance_ses_2005,C_resilience,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_adaptive_governance_2005
+E0606,P_adaptive_governance_ses_2005,C_social_ecological_systems,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_adaptive_governance_2005
+E0607,P_adaptive_governance_ses_2005,C_transformation,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_adaptive_governance_2005
+E0608,P_adaptive_governance_ses_2005,RF_resilience_research,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_adaptive_governance_2005
+E0609,P_adaptive_governance_ses_2005,RF_social_ecological_systems,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_adaptive_governance_2005
+E0610,P_adaptive_governance_ses_2005,RF_governance_research,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_adaptive_governance_2005
+E0611,P_adaptive_governance_ses_2005,M_adaptive_governance_analysis,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_adaptive_governance_2005
+E0612,P_adaptive_governance_ses_2005,M_comparative_case_study,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_adaptive_governance_2005
+E0613,P_adaptive_governance_ses_2005,G_adaptive_governance,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_adaptive_governance_2005
+E0614,P_adaptive_governance_ses_2005,G_resilience_governance,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_adaptive_governance_2005
+E0615,P_earth4all_survival_guide_2022,C_transformation,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_earth4all_2022
+E0616,P_earth4all_survival_guide_2022,C_justice_and_inequality,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_earth4all_2022
+E0617,P_earth4all_survival_guide_2022,C_planetary_limits,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_earth4all_2022
+E0618,P_earth4all_survival_guide_2022,C_sustainability_transitions,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_earth4all_2022
+E0619,P_earth4all_survival_guide_2022,RF_systems_thinking,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_earth4all_2022
+E0620,P_earth4all_survival_guide_2022,RF_sustainability_science,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_earth4all_2022
+E0621,P_earth4all_survival_guide_2022,RF_integrated_assessment,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_earth4all_2022
+E0622,P_earth4all_survival_guide_2022,M_system_dynamics,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_earth4all_2022
+E0623,P_earth4all_survival_guide_2022,M_scenario_analysis,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_earth4all_2022
+E0624,P_earth4all_survival_guide_2022,I_club_of_rome,produced_by,4,medium,True,Publication has institutional origin or strong institutional linkage.,external_earth4all_2022
+E0625,P_earth4all_survival_guide_2022,G_sdgs,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_earth4all_2022
+E0626,P_earth4all_survival_guide_2022,G_planetary_stewardship,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_earth4all_2022
+E0627,P_panarchy_2002,C_panarchy,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_panarchy_2002
+E0628,P_panarchy_2002,C_adaptive_cycles,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_panarchy_2002
+E0629,P_panarchy_2002,C_resilience,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_panarchy_2002
+E0630,P_panarchy_2002,C_transformation,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_panarchy_2002
+E0631,P_panarchy_2002,RF_resilience_research,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_panarchy_2002
+E0632,P_panarchy_2002,RF_social_ecological_systems,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_panarchy_2002
+E0633,P_panarchy_2002,M_conceptual_synthesis,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_panarchy_2002
+E0634,P_panarchy_2002,G_resilience_governance,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_panarchy_2002
+E0635,P_earth_system_governance_science_plan_2009,C_earth_system_governance,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_esg_2009
+E0636,P_earth_system_governance_science_plan_2009,C_governance_under_uncertainty,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_esg_2009
+E0637,P_earth_system_governance_science_plan_2009,C_planetary_stewardship,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_esg_2009
+E0638,P_earth_system_governance_science_plan_2009,C_justice_and_inequality,uses_concept,4,medium,True,Representative key publication uses/centers this concept.,external_esg_2009
+E0639,P_earth_system_governance_science_plan_2009,RF_governance_research,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_esg_2009
+E0640,P_earth_system_governance_science_plan_2009,RF_sustainability_science,belongs_to,4,medium,True,Representative key publication is coded as belonging to this research field.,external_esg_2009
+E0641,P_earth_system_governance_science_plan_2009,M_conceptual_synthesis,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_esg_2009
+E0642,P_earth_system_governance_science_plan_2009,M_qualitative_governance_analysis,uses_method,4,medium,True,Representative key publication is coded as using or advancing this method/approach.,external_esg_2009
+E0643,P_earth_system_governance_science_plan_2009,N_earth_system_governance_project,produced_by,4,medium,True,Publication has institutional origin or strong institutional linkage.,external_esg_2009
+E0644,P_earth_system_governance_science_plan_2009,G_earth_system_governance,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_esg_2009
+E0645,P_earth_system_governance_science_plan_2009,G_planetary_governance,informs,3,medium,True,Publication is coded as informing or underpinning this governance framework; validate causality in later stage.,external_esg_2009
+E0646,P_global_polycrisis_causal_mechanisms_2024,P_what_is_global_polycrisis_2022,cites,3,low,True,Representative citation/lineage edge; verify against reference lists during bibliometric expansion.,external_seed_publications
+E0647,P_global_polycrisis_causal_mechanisms_2024,P_panarchy_2002,cites,3,low,True,Representative citation/lineage edge; verify against reference lists during bibliometric expansion.,external_seed_publications
+E0648,P_global_polycrisis_causal_mechanisms_2024,P_resilience_perspective_ses_2006,cites,3,low,True,Representative citation/lineage edge; verify against reference lists during bibliometric expansion.,external_seed_publications
+E0649,P_safe_and_just_boundaries_2023,P_safe_operating_space_nature_2009,cites,3,low,True,Representative citation/lineage edge; verify against reference lists during bibliometric expansion.,external_seed_publications
+E0650,P_safe_and_just_boundaries_2023,P_planetary_boundaries_ecology_society_2009,cites,3,low,True,Representative citation/lineage edge; verify against reference lists during bibliometric expansion.,external_seed_publications
+E0651,P_planetary_boundaries_guiding_development_2015,P_safe_operating_space_nature_2009,cites,3,low,True,Representative citation/lineage edge; verify against reference lists during bibliometric expansion.,external_seed_publications
+E0652,P_doughnut_economics_2017,P_safe_operating_space_nature_2009,cites,3,low,True,Representative citation/lineage edge; verify against reference lists during bibliometric expansion.,external_seed_publications
+E0653,P_earth4all_survival_guide_2022,P_limits_to_growth_1972,cites,3,low,True,Representative citation/lineage edge; verify against reference lists during bibliometric expansion.,external_seed_publications
+E0654,PER_michael_lawrence,C_polycrisis,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0655,PER_michael_lawrence,C_crisis_entanglement,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0656,PER_scott_janzwood,C_polycrisis,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0657,PER_scott_janzwood,C_systemic_risk,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0658,PER_thomas_homer_dixon,C_polycrisis,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0659,PER_thomas_homer_dixon,C_systemic_risk,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0660,PER_johan_rockstrom,C_planetary_boundaries,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0661,PER_johan_rockstrom,C_safe_just_earth_system_boundaries,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0662,PER_johan_rockstrom,C_polycrisis,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0663,PER_ortwin_renn,C_systemic_risk,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0664,PER_ortwin_renn,C_governance_under_uncertainty,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0665,PER_jonathan_donges,C_tipping_points,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0666,PER_jonathan_donges,C_polycrisis,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0667,PER_donella_meadows,C_systemic_interdependence,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0668,PER_donella_meadows,C_feedback_loops,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0669,PER_donella_meadows,C_planetary_limits,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0670,PER_dennis_meadows,C_systemic_interdependence,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0671,PER_dennis_meadows,C_planetary_limits,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0672,PER_jorgen_randers,C_planetary_limits,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0673,PER_jorgen_randers,C_transformation,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0674,PER_will_steffen,C_planetary_boundaries,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0675,PER_will_steffen,C_anthropocene,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0676,PER_carl_folke,C_resilience,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0677,PER_carl_folke,C_social_ecological_systems,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0678,PER_carl_folke,C_adaptive_governance,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0679,PER_elinor_ostrom,C_social_ecological_systems,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0680,PER_elinor_ostrom,C_adaptive_governance,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0681,PER_jochen_markard,C_sustainability_transitions,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0682,PER_jochen_markard,C_socio_technical_transformation,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0683,PER_rob_raven,C_sustainability_transitions,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0684,PER_rob_raven,C_socio_technical_transformation,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0685,PER_bernhard_truffer,C_sustainability_transitions,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0686,PER_bernhard_truffer,C_socio_technical_transformation,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0687,PER_kate_raworth,C_social_foundations,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0688,PER_kate_raworth,C_ecological_ceilings,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0689,PER_kate_raworth,C_justice_and_inequality,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0690,PER_frank_biermann,C_earth_system_governance,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0691,PER_frank_biermann,C_governance_under_uncertainty,works_on,3,medium,True,Person-concept edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0692,PER_michael_lawrence,RF_systemic_risk_analysis,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0693,PER_scott_janzwood,RF_systemic_risk_analysis,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0694,PER_thomas_homer_dixon,RF_systemic_risk_analysis,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0695,PER_thomas_homer_dixon,RF_complexity_theory,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0696,PER_johan_rockstrom,RF_earth_system_science,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0697,PER_johan_rockstrom,RF_sustainability_science,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0698,PER_ortwin_renn,RF_systemic_risk_analysis,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0699,PER_ortwin_renn,RF_governance_research,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0700,PER_jonathan_donges,RF_earth_system_science,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0701,PER_jonathan_donges,RF_complexity_theory,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0702,PER_donella_meadows,RF_systems_thinking,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0703,PER_carl_folke,RF_resilience_research,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0704,PER_carl_folke,RF_social_ecological_systems,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0705,PER_elinor_ostrom,RF_social_ecological_systems,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0706,PER_elinor_ostrom,RF_governance_research,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0707,PER_jochen_markard,RF_transition_studies,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0708,PER_kate_raworth,RF_degrowth_postgrowth,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0709,PER_kate_raworth,RF_sustainability_science,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0710,PER_frank_biermann,RF_governance_research,works_in,3,medium,True,Person-field edge inferred from representative publication authorship; refresh in OpenAlex stage.,external_seed_publication_author_lists
+E0711,PER_michael_lawrence,I_cascade_institute,affiliated_with,4,high,True,Author affiliation in Cambridge article / Cascade Institute publication context.,external_seed_publications;needs_affiliation_refresh
+E0712,PER_jonathan_donges,I_pik,affiliated_with,4,high,True,Author affiliation in Cambridge article context.,external_seed_publications;needs_affiliation_refresh
+E0713,PER_jonathan_donges,I_stockholm_resilience_centre,affiliated_with,4,high,True,Author affiliation in Cambridge article context.,external_seed_publications;needs_affiliation_refresh
+E0714,PER_johan_rockstrom,I_stockholm_resilience_centre,affiliated_with,3,medium,True,Known institutional association; validate current status.,external_seed_publications;needs_affiliation_refresh
+E0715,PER_johan_rockstrom,I_pik,affiliated_with,3,medium,True,Known institutional association; validate current status.,external_seed_publications;needs_affiliation_refresh
+E0716,PER_carl_folke,I_stockholm_resilience_centre,affiliated_with,3,medium,True,Known institutional association; validate current status.,external_seed_publications;needs_affiliation_refresh
+E0717,PER_kate_raworth,I_deal,affiliated_with,4,medium,True,Doughnut Economics Action Lab relation; validate exact role in later stage.,external_seed_publications;needs_affiliation_refresh
